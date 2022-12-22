@@ -1,0 +1,17 @@
+Using 1 contract to deploy other contracts.
+
+// should contract name == file name ?
+
+// exporting contract to another contract
+
+// creating contracts inside another contract
+// ex: array of contracts.
+
+// Inheritances & Overrides
+ExtraStorage is inheriting SimpleStorage
+
+// to override a function
+// virtual keyword should be on method of base class
+// and override keyword should be on new method of derived class
+
+3:30 => recap
